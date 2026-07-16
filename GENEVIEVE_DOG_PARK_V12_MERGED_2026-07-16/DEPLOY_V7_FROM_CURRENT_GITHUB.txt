@@ -1,0 +1,35 @@
+GENEVIEVE App™ DOG PARK — V7 BACK STEP + MOBILE GA
+BUILD 2026.07.14.7
+
+THIS FIXES
+- A real Back one step button
+- Phone/browser back navigation between app pages
+- GA logo being hidden below 420px
+- GA logo appearing tiny because the source image had large black bands
+- GA app icons for installed phone/PWA use
+
+ORIGINAL LOGO SAFETY
+The original uploaded logo remains unchanged in the assets folder.
+The mobile display file is a crop of unused border space only and uses the same pixels and proportions.
+
+DEPLOY USING YOUR CURRENT GITHUB METHOD
+1. Extract this ZIP.
+2. Upload the folder:
+   GENEVIEVE_DOG_PARK_READY_TO_DEPLOY_2026-07-14_V7_BACK_GA_MOBILE
+   into your existing GitHub repository.
+3. Vercel → Project Settings → Build and Deployment → Root Directory.
+4. Use the folder selector and click:
+   GENEVIEVE_DOG_PARK_READY_TO_DEPLOY_2026-07-14_V7_BACK_GA_MOBILE
+5. Save.
+6. Deployments → Redeploy.
+7. Turn OFF existing build cache if offered.
+8. Open the new Ready deployment.
+9. Confirm build 2026.07.14.7.
+10. On your phone, use More → Refresh latest app version once.
+11. Confirm:
+    - GA is visible in the top-left header;
+    - Back one step appears below the header;
+    - navigating Journey → Route and Arrival → Back returns to Journey;
+    - the black EMERGENCY button remains visible.
+
+If the phone home-screen icon remains old, remove the old installed shortcut/PWA and add the site to the home screen again after V7 is live.

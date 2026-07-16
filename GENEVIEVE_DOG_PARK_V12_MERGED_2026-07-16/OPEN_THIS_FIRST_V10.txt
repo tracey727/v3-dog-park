@@ -1,0 +1,25 @@
+GENEVIEVE App™ DOG PARK — VERSION 10
+
+THIS IS THE CURRENT COMPLETE PACKAGE.
+
+Build: 2026.07.14.10
+Base: the complete Version 9 package
+Logo: the exact uploaded gold A / black G artwork with its original pink glow
+
+WHAT WAS PRESERVED
+- Every Version 9 file remains in this package.
+- All 31 app screens and 23 forms remain.
+- Emergency, Call 000, emergency-vet guidance, lost/found, incident reporting and lone-walker timer remain.
+- Today, Journey, Parks, Dogs and More remain.
+- Mr Gruff, his date of birth, dog profiles, compatibility, heat/hazard tools, trip planning, role views, legal pages, payments material, tests and deployment files remain.
+- The approved tree/infinity/roots image remains.
+
+WHAT CHANGED
+- Version numbers and cache identifiers advanced from V9 to V10.
+- New V10 icon filenames point to the exact pink-glow GA artwork, preventing phones and browsers from reusing an older paw-print icon.
+- A 1024 x 1024 icon was added for later store preparation.
+
+DEPLOYMENT
+The ZIP is arranged with index.html at the ZIP root. Upload ALL extracted files and folders together. Do not upload only one file.
+
+Older V5/V6/V7/V9 instruction files remain only as history. Use this V10 file first.

@@ -1,0 +1,29 @@
+GENEVIEVE App™ DOG PARK — V7 BACK STEP + MOBILE GA
+
+BUILD: 2026.07.14.7
+
+THIS BUILD CONTAINS
+- Your exact uploaded GA logo file: assets/genevieve-ga-logo-approved-original.png
+- Your exact uploaded tree/infinity/roots logo file: assets/genevieve-tree-logo-approved-original.jpeg
+- A permanent black EMERGENCY button visible on every page
+- Call 000 control, emergency vet helper, restricted medical summary,
+  lost dog alert, incident report and lone-walker timer
+
+IMPORTANT: YOUR CURRENT GITHUB REPOSITORY USES A NESTED ROOT FOLDER.
+
+EASIEST DEPLOYMENT METHOD
+1. Extract this ZIP.
+2. In GitHub, open the existing folder:
+   GENEVIEVE_DOG_PARK_READY_TO_DEPLOY_2026-07-14_V4
+3. Delete the old contents inside that folder, or upload the V5 files into a NEW folder named:
+   GENEVIEVE_DOG_PARK_READY_TO_DEPLOY_2026-07-14_V5_LOGOS_EMERGENCY
+4. In Vercel Project Settings → Build and Deployment → Root Directory,
+   select the exact folder by clicking it. Do not type it from memory.
+5. Save.
+6. Deployments → Redeploy → turn off existing build cache.
+7. When Ready, open Visit.
+8. Confirm the footer/build marker says 2026.07.14.7.
+9. Confirm the exact GA logo is at the top, the tree is on Today,
+   and the black EMERGENCY button is always visible.
+
+Do not use an old guessed Vercel address. Open the address from the Ready deployment card.

@@ -1,0 +1,24 @@
+GENEVIEVE App™ Dog Park — READY TO DEPLOY V7 — BACK STEP + MOBILE GA
+Build 2026.07.14.7
+
+THIS BUILD FIXES THE MISSING-FEATURE PROBLEM
+- More now contains a mobile role selector.
+- Park Superintendent is always visible in More.
+- Choosing Park Superintendent opens its facilities, maintenance, notices and trends screen.
+- Refresh latest app version removes old GENEVIEVE website caches without deleting dog records.
+- Vercel is instructed not to cache index.html, config.js or service-worker.js.
+
+DEPLOY
+1. Extract this ZIP.
+2. Open the extracted folder and confirm index.html is immediately visible.
+3. Create or open ONE clean GitHub repository for this app.
+4. Upload every extracted file and folder to the repository ROOT. Do not upload the unopened ZIP and do not place the files inside an extra folder.
+5. In Vercel, import that exact repository.
+6. Framework Preset: Other.
+7. Root Directory: leave as repository root / blank.
+8. Build Command: blank. Install Command: blank. Output Directory: blank.
+9. Deploy and open the new Vercel deployment URL shown by Vercel.
+10. In the app open More. Confirm build 2026.07.14.7 appears and use App View → Park Superintendent.
+11. If an older screen appears, open More → Refresh latest app version.
+
+DO NOT CONNECT PAYMENTS YET unless the four Stripe links have been individually verified and mapped in config.js. Apple and Google native subscriptions still require their store billing setup.
