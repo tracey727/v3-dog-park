@@ -1,0 +1,164 @@
+{
+  "build": "2026.07.14.10",
+  "base": "Version 9 supplied ZIP",
+  "v9_files": 74,
+  "v9_files_missing_from_v10": [],
+  "v9_files_unchanged": 66,
+  "v9_files_intentionally_changed": [
+    "README.md",
+    "app.js",
+    "docs/CHANGELOG.md",
+    "index.html",
+    "legal/ip-notice.html",
+    "manifest.webmanifest",
+    "service-worker.js",
+    "tests/static-check.py"
+  ],
+  "v10_added_files": [
+    "OPEN_THIS_FIRST_V10.txt",
+    "UPLOAD_V10_TO_EXISTING_PROJECT.txt",
+    "V10_PINK_GLOW_GA_AND_PRESERVATION.md",
+    "assets/ga-app-icon-1024-v10.png",
+    "assets/ga-app-icon-192-v10.png",
+    "assets/ga-app-icon-512-v10.png",
+    "assets/ga-apple-touch-icon-180-v10.png",
+    "assets/ga-favicon-64-v10.png",
+    "assets/ga-logo-full-square-v10.png",
+    "docs/V10_PRESERVATION_MANIFEST.json",
+    "docs/V10_TEST_REPORT.md"
+  ],
+  "v10_total_files": 85,
+  "exact_uploaded_logo_pixels_preserved": true,
+  "uploaded_logo_crop_size": [
+    750,
+    750
+  ],
+  "v10_logo_size": [
+    750,
+    750
+  ],
+  "source_uploaded_image_sha256": "06362aa8c50f564e2e3a1cc5c810f20506f08166d698f6d33cef3812acf7245f",
+  "v10_logo_sha256": "debc49ef6633d124025bc3cdb8d11c05d7458df207d8ca1f1ebc5524aa09bf7a",
+  "screens": 31,
+  "screen_ids": [
+    "today",
+    "before-leaving",
+    "route-arrival",
+    "checkin",
+    "park-search",
+    "park-details",
+    "live-park",
+    "beaches",
+    "dog-list",
+    "dog-profile",
+    "puppy",
+    "compatibility",
+    "companions",
+    "best-mates",
+    "owner-duty",
+    "etiquette",
+    "heat-hazards",
+    "travel",
+    "emergency",
+    "lost-found",
+    "incident",
+    "notices",
+    "roles",
+    "superintendent",
+    "notifications",
+    "membership",
+    "settings",
+    "legal",
+    "data",
+    "launch",
+    "more"
+  ],
+  "forms": 23,
+  "main_navigation": [
+    "Today",
+    "Journey",
+    "Parks",
+    "Dogs",
+    "More"
+  ],
+  "roles": [
+    "owner",
+    "visitor",
+    "superintendent",
+    "responder",
+    "admin"
+  ],
+  "html_image_references": [
+    "./assets/ga-logo-full-square-v10.png",
+    "./assets/genevieve-tree-logo-approved-original.jpeg"
+  ],
+  "legal_pages": [
+    "account-deletion.html",
+    "community-guidelines.html",
+    "index.html",
+    "ip-notice.html",
+    "privacy-policy.html",
+    "refund-cancellation-policy.html",
+    "safety-disclaimer.html",
+    "subscription-terms.html",
+    "support.html",
+    "terms-of-use.html"
+  ],
+  "manifest_icon_checks": [
+    {
+      "src": "./assets/ga-app-icon-192-v10.png",
+      "declared": "192x192",
+      "actual": "192x192",
+      "exists": true,
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/ga-app-icon-192-v10.png",
+      "declared": "192x192",
+      "actual": "192x192",
+      "exists": true,
+      "purpose": "maskable"
+    },
+    {
+      "src": "./assets/ga-app-icon-512-v10.png",
+      "declared": "512x512",
+      "actual": "512x512",
+      "exists": true,
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/ga-app-icon-512-v10.png",
+      "declared": "512x512",
+      "actual": "512x512",
+      "exists": true,
+      "purpose": "maskable"
+    }
+  ],
+  "service_worker_missing_assets": [],
+  "feature_markers": {
+    "Mr Gruff profile": true,
+    "Mr Gruff DOB 2021-08-08": true,
+    "Permanent emergency button": true,
+    "Emergency screen": true,
+    "Call 000 link": true,
+    "Lost and found": true,
+    "Incident reporting": true,
+    "Lone walker timer": true,
+    "Tree/infinity/roots image": true,
+    "Pink-glow GA header image": true,
+    "Voluntary check-in": true,
+    "Owner Duty": true,
+    "Grey Nomad/trip planning": true,
+    "Park Superintendent": true,
+    "Legal centre": true
+  },
+  "automated_checks": {
+    "static_links_and_forms": "PASS",
+    "risk_logic": "PASS",
+    "javascript_syntax": "PASS",
+    "manifest_json": "PASS",
+    "vercel_json": "PASS",
+    "local_http_key_files": "PASS (HTTP 200)"
+  },
+  "important_limit": "The supplied V9 package contains the GA logo and tree/infinity/roots image, but no separate Tracey or Mr Gruff photograph files. No such photo was removed by V10."
+}
